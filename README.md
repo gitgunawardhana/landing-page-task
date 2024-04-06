@@ -2,14 +2,6 @@
 
 This is a simple React application that [briefly describe what your app does or its purpose].
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 To run this application locally, you'll need to have Node.js and npm installed on your machine. Once you have Node.js and npm installed, follow these steps:
